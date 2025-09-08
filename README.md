@@ -11,15 +11,15 @@ A retail company seeks to understand its sales performance across cities, produc
 - Delivers actionable insights for revenue growth
 
 # Key Analyses Performed
-# Total Sales per City 
+Total Sales per City 
   → Mumbai leads in revenue, followed by Delhi and Bangalore  
-# Total Sales per Product
+ Total Sales per Product
   → Jeans, Watches, and Shoes dominate sales volume  
-# Customer Segmentation 
+Customer Segmentation 
   → Identified unique customers and calculated average spend  
-# Monthly Sales Trends
+Monthly Sales Trends
   → September had peak sales; October showed a decline  
-  # Dashboard Creation
+ Dashboard Creation
   → Visualized insights using Excel (Pivot Tables, Conditional Formatting)
 
 
